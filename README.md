@@ -1,5 +1,5 @@
 🍿 Snack Squad
-A Customizable Snack Ordering and Delivery App
+- A Customizable Snack Ordering and Delivery App
 Snack Squad is your all-in-one snack companion for movie nights, parties, or casual hangouts. Whether it’s chips, candies, popcorn, or beverages — browse, customize, and order your snacks effortlessly with real-time updates and doorstep delivery.
 
 🎬 User Scenario

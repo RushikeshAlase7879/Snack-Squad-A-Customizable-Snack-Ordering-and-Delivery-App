@@ -2,10 +2,10 @@
 - A Customizable Snack Ordering and Delivery App
 Snack Squad is your all-in-one snack companion for movie nights, parties, or casual hangouts. Whether it’s chips, candies, popcorn, or beverages — browse, customize, and order your snacks effortlessly with real-time updates and doorstep delivery.
 
-🎬 User Scenario
+-🎬 User Scenario
 Ethan is hosting a movie night. Instead of juggling different stores, he opens Snack Squad, browses the catalog, customizes his snacks, and places the order in minutes. Just in time, the snacks arrive — making his evening a hit!
 
-🧠 Core Features
+-🧠 Core Features
 Category	Feature Details
 🔐 Authentication	User Registration & Login
 🍿 Product Catalog	Browse Snacks with Images & Descriptions
@@ -16,27 +16,27 @@ Category	Feature Details
 🌟 Feedback	Ratings & Reviews
 ♻️ History	Reorder from Favorites, View Order History
 
-🏗️ Architecture
+-🏗️ Architecture
 Three-tier Design:
 Presentation ➝ Application Logic ➝ Data Layer
 
-Smart Features:
+-Smart Features:
 IBM Watson for snack suggestions
 
-Storage:
+-Storage:
 Cloud hosting for assets and dynamic data
 
-Security:
+-Security:
 Encrypted payment routing and user authentication
 
-📆 Agile Sprint Plan
+-📆 Agile Sprint Plan
 Sprint	Scope
 Sprint 1	User Registration, Login & Authentication
 Sprint 2	Dashboard UI & User Profile Management
 Sprint 3	Snack Catalog, Cart Functionality
 Sprint 4	Payment Integration & Admin Panel
 
-⏱ Timeline: 4 Sprints × 6 Days = 24 Days
+-⏱ Timeline: 4 Sprints × 6 Days = 24 Days
 
 ⚙️ Velocity: ~1 Story Point per Day
 
